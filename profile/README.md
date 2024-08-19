@@ -1,10 +1,6 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/dbcfeed1-418b-4926-81db-ecbcd2a21faf" alt="coding" width="450px" />  
-<br/>    
     
-### Help Me Guardians Project
-<br/>    
-
+# Help Me Guardians <br/> <img src="https://github.com/user-attachments/assets/dbcfeed1-418b-4926-81db-ecbcd2a21faf" alt="coding" width="450px" />  
 </div>
 
 ## 🙋‍♂️ 팀 소개
@@ -42,10 +38,10 @@
 [게임 개요](#-게임-개요)  
 [게임 소개](#-게임-소개)  
 [주요 사용 기술](#-주요-사용-기술)  
-[개발 진행](#-개발-진행)  
+&emsp;[개발 진행](#-개발-진행)  
 [개발 결과](#-개발-결과)  
-[프로젝트 개선](#-프로젝트-개선)  
-[트러블 슈팅](#-트러블-슈팅)  
+&emsp;[프로젝트 개선](#-프로젝트-개선)  
+&emsp;[트러블 슈팅](#-트러블-슈팅)  
     
 <br/>   
       
