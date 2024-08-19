@@ -1,11 +1,9 @@
 <div align="center">
 <img src="https://github.com/user-attachments/assets/dbcfeed1-418b-4926-81db-ecbcd2a21faf" alt="coding" width="450px" />  
 <br/>    
-<br/>    
     
 ### Help Me Guardians Project
 <br/>    
-<br/> 
 
 </div>
 
@@ -37,7 +35,6 @@
 
 `Jira` [Jira](https://profilehyunho.notion.site/Jira-1331eab7a4d5417ca29c757cb2e79aaf)  
 
-<br/>    
 <br/> 
 
 ## 🧾 목차
@@ -49,8 +46,7 @@
 [개발 결과](#-개발-결과)  
 [프로젝트 개선](#-프로젝트-개선)  
 [트러블 슈팅](#-트러블-슈팅)  
-  
-<br/>    
+    
 <br/>   
       
 ## 😃 게임 개요 
@@ -61,8 +57,6 @@
     다양한 유닛을 소환하고 조합하며
     각기 다른 특성을 가진 보스들을 물리치는 게임입니다 😃
 
-
-<br/>    
 <br/>  
 
 ## 💝 게임 소개
