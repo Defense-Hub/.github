@@ -77,6 +77,8 @@
 <br/>  
 
 ## 🛠 주요 사용 기술
+<details>
+    
 <img src="https://github.com/user-attachments/assets/86726e67-8475-4521-8911-c29f66484b4f" alt="coding" width="550px" />
 
 <br/>    
@@ -86,16 +88,21 @@
 ## 🧾 개발 진행
 
 ### 🛠 FSM
+<details>
+    
 #### 💡 사용 이유
 - **유닛과 Enemy의 상태를 유기적으로 관리하기 위함**
 
 #### 📌 사용 방법
 -  **아래와 같은 구조로 사용**  
 <img src="https://github.com/user-attachments/assets/7268aa19-c270-452c-8abe-67abcd2ef54b" alt="coding" width="550px" />
+</details>
 
 ---
 
 ### 🛠 Custom Editor Tool
+<details>
+    
 #### 💡 사용 이유
 - **유닛 혹은 적을 테스트 하거나 개발 편의성을 위한 커스텀 툴 개발**  
 
@@ -108,10 +115,13 @@
 <img src="https://github.com/user-attachments/assets/02df5b8f-cf67-41d2-99a0-02200902215a" alt="coding" width="550px" />  
 4️⃣ **유닛 스텟 조절**  
 <img src="https://github.com/user-attachments/assets/b623efd9-00fc-4e59-88ca-39e0b3db0142" alt="coding" width="550px" />  
+</details>
 
 ---
 
 ### 🛠 Addressable
+<details>
+    
 #### 💡 사용 이유
 - **메모리 효율성과 유연한 리소스 관리를 위해 사용**  
 
@@ -124,10 +134,13 @@
 <img src="https://github.com/user-attachments/assets/9c196c19-9f96-4e05-ad1c-2e0c0290b631" alt="coding" width="550px" />  
 3️⃣ **IResourceLocation 정보를 매개변수로 어드레서블에 저장된 리소스를 로드**  
 <img src="https://github.com/user-attachments/assets/ed9a50b9-017e-4e1a-b220-6a4d28e37b69" alt="coding" width="550px" />  
+</details>
 
 ---
 
 ### 🛠 Custom Editor Tool
+<details>
+    
 #### 💡 사용 이유
 - **유닛 혹은 적을 테스트 하거나 개발 편의성을 위한 커스텀 툴 개발**  
 
@@ -140,17 +153,23 @@
 <img src="https://github.com/user-attachments/assets/02df5b8f-cf67-41d2-99a0-02200902215a" alt="coding" width="550px" />  
 4️⃣ **유닛 스텟 조절**  
 <img src="https://github.com/user-attachments/assets/b623efd9-00fc-4e59-88ca-39e0b3db0142" alt="coding" width="550px" />  
+</details>
 
 ---
 
 ### 🛠 Batching
+<details>
+    
 #### 💡 설명
 - **Batch 최적화를 위해 Static Batching, Sprite Atlas, Terrain To Mesh 사용**  
 <img src="https://github.com/user-attachments/assets/b9a3fa67-d9cc-4520-b002-65fdf79d98cc" alt="coding" width="550px" />  
+</details>
 
 ---
 
 ### 🛠 UI 동적 생성
+<details>
+    
 #### 💡 사용 이유
 - **다양한 게임 상황에 따른 UI 관리**  
 - **리소스 관리 최적화**  
@@ -178,10 +197,13 @@
 5️⃣ UI_EventHandler 클래스  
 - UI의 클릭 및 드래그 이벤트를 처리하는 클래스  
 - 이 클래스는 Unity의 이벤트 시스템과 통합되어, 다양한 UI 상호작용을 관리  
+</details>
 
 ---
 
 ### 🛠 Unity Gaming Service Analytics
+<details>
+    
 #### 💡 사용 이유  
 - **User Test 에서 실제 플레이 환경의 이벤트를 전송 받아 유저 데이터를 확보, 
 개선 방향을 수립하기 위해 사용**  
@@ -201,14 +223,16 @@
 **위 정보들을 바탕으로 중간에 이탈하는 유저들을 막기 위해 계획 중인 사안**
 1. 5Stage 전후 러닝 커브에 맞춘 밸런스 조절  
 2. 유저들을 후킹할만한 요소 추가  
-
+</details>
 
 
 <br/>    
 <br/>  
-
+</details>
 
 ## 📋 개발 결과
+<details>
+    
 > 유저테스트: 8월 8일 ~ 8월 11일 (4일간)
 <img src="https://github.com/user-attachments/assets/7f4ea95b-5e65-4327-8573-4070b33caafa" alt="coding" width="550px" />
 
@@ -453,6 +477,8 @@
 - 슬라이드 바의 value를 0으로 설정하여 데시벨을 -80dB로 설정하려면 volume 값을 최소 0.0001f로 설정해야 하므, 위와 같은 방어코드를 작성하여 해결했다.
 
 </div>
+</details>
+
 </details>
 
 <br/>    
