@@ -4,7 +4,7 @@
 </div>
 
 # Details
-https://github.com/Defense-Hub/ProjectDH_Public/blob/main/README.md
+https://github.com/Defense-Hub/ProjectDH_Public
 
 ## 🙋‍♂️ 팀 소개
 
