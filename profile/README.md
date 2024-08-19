@@ -3,6 +3,9 @@
 # Help Me Guardians <br/> <img src="https://github.com/user-attachments/assets/dbcfeed1-418b-4926-81db-ecbcd2a21faf" alt="coding" width="450px" />  
 </div>
 
+# Details
+https://github.com/Defense-Hub/ProjectDH_Public/blob/main/README.md
+
 ## 🙋‍♂️ 팀 소개
 
  `Stack`  **Unity, C#**   
